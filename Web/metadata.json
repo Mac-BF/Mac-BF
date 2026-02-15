@@ -1,0 +1,8 @@
+
+{
+  "name": "Lumina | Digital Architecture & Design",
+  "description": "A high-end web design studio landing page focused on liquid interfaces, AI-enhanced UX, and future-forward digital ecosystems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
